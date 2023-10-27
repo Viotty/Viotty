@@ -1,10 +1,8 @@
-# Hey there! I'm Rémi 🙆‍♂️
-
-## About Me 🐧
+### Hey there! I'm Rémi 🙆‍♂️
 
 I'm a French Full Stack developer with a passion for coding. I've worked with a range of technologies, always eager to explore and learn new things.
 
-## Tech Stack 🛠️
+### Tech Stack 🛠️
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)&nbsp;
@@ -25,14 +23,14 @@ I'm a French Full Stack developer with a passion for coding. I've worked with a 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)&nbsp;
 
-## What's New 📚
+### What's New 📚
 
 As a freelancer, I'm using my free days to explore exciting technologies. Currently, I'm diving into:
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose-64FFDA?logo=android&logoColor=white)
 
-## Let's Connect! 📬
+### Let's Connect! 📬
 
 If you're in need of a dedicated developer, I'm just [a message away](mailto:remi.viotty@gmail.com). Let's create something amazing together! 🫡
 
